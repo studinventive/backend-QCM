@@ -1,0 +1,107 @@
+{
+  "examen1": [
+    {
+      "id": 1,
+      "question": "Quelle organisation définit les standards Web?",
+      "reponses": {
+        "r1": {
+          "reponse": "Apple Inc.",
+          "isTrue": false
+        },
+        "r2": {
+          "reponse": "Studinvente",
+          "isTrue": false
+        },
+        "r3": {
+          "reponse": "World Wide Web Consortium",
+          "isTrue": true
+        }
+      },
+      "commentaire": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dapibus arcu"
+    },
+    {
+      "id": 2,
+      "question": "HTML est un language de programation orientée objet?",
+      "reponses": {
+        "r1": {
+          "reponse": "Vrai.",
+          "isTrue": false
+        },
+        "r2": {
+          "reponse": "faux",
+          "isTrue": true
+        }
+      },
+      "commentaire": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dapibus arcu"
+    },
+    {
+      "id": 3,
+      "question": "HTML utilise des : ",
+      "reponses": {
+        "r1": {
+          "reponse": "Balises définis par l’utilisateur",
+          "isTrue": false
+        },
+        "r2": {
+          "reponse": "Balises prédéfinis",
+          "isTrue": false
+        },
+        "r3": {
+          "reponse": "Balises fixes définis par le langage",
+          "isTrue": true
+        },
+        "r4": {
+          "reponse": "Balises uniquement pour les liens",
+          "isTrue": false
+        },
+        "commentaire": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dapibus arcu"
+      }
+    },
+    {
+      "id": 4,
+      "question": "HTML a été proposé pour la première fois l’année : ",
+      "reponses": {
+        "r1": {
+          "reponse": "1980",
+          "isTrue": false
+        },
+        "r2": {
+          "reponse": "1990",
+          "isTrue": true
+        },
+        "r3": {
+          "reponse": "1995",
+          "isTrue": false
+        },
+        "r4": {
+          "reponse": "2022",
+          "isTrue": false
+        }
+      },
+      "commentaire": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dapibus arcu"
+    },
+    {
+      "id": 5,
+      "question": "Lequel des éléments suivants n’est pas un exemple de navigateur? : ",
+      "reponses": {
+        "r1": {
+          "reponse": "Mozilla Firefox",
+          "isTrue": false
+        },
+        "r2": {
+          "reponse": "Netscape",
+          "isTrue": false
+        },
+        "r3": {
+          "reponse": "Microsoft Bing",
+          "isTrue": true
+        },
+        "r4": {
+          "reponse": "opéra",
+          "isTrue": false
+        }
+      },
+      "commentaire": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dapibus arcu"
+    }
+  ]
+}
